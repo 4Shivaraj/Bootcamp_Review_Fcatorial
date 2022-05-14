@@ -6,3 +6,5 @@ do
         sum=$(( $sum*$i ))
 done
 echo $sum
+
+# added message in first branch
